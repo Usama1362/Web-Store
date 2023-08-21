@@ -1,5 +1,3 @@
-
-import { products } from "@/utils/mock"
 import ProductCart from "@/components/layout/ProductCart"
 import { StaticImageData } from "next/image"
 import { Product } from '@/utils/type'
